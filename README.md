@@ -1,13 +1,5 @@
 # WebComponents
 
-<!-- markdownlint-disable MD033 -->
-<p align="center">
-  <a href="https://www.webcomponents.org/introduction">
-    <img id="logo" src="assets/webcomponents_logo.png" alt="WebComponents" title="WebComponents">
-  </a>
-</p>
-<!-- markdownlint-enable MD033 -->
-
 ## Introducción a los WebComponents
 
 **WebComponents** es el nombre por el que se conoce a un conjunto de características relacionadas con HTML, CSS y Javascript, mediante las cuales se pueden crear elementos mantenibles, reutilizables y encapsulados llamados **componentes**, sin que sea necesario utilizar herramientas externas, librerías o frameworks.
@@ -50,7 +42,7 @@ La forma más básica de crear una etiqueta personalizada HTML es simplemente es
 </app-element>
 
 <element>
-  Contenido de una etiqueta que no cumple el estándar para nombrar una etiqueta personalizada
+  Contenido de una etiqueta que no cumple el estándar
 </element>
 ```
 
