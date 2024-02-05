@@ -9,13 +9,13 @@
   "homepage": "https://alxgcrz.com/webcomponents.html",
   "scripts": {
     "pandoc:create": "pandoc -d custom",
-    "pandoc:copy": "copy *.html \"../../_alxgcrz_/_code_/_alxgcrz_/public/\"",
+    "pandoc:copy": "copy *.html %npm_config_html%",
     "pdf:create": "mdpdf README.md README.pdf",
-    "pdf:copy": "copy README.pdf \"C:/Users/alexg/Google Drive/Libros/Desarrollo/WebComponents/WebComponents[ES].pdf\"",
+    "pdf:copy": "copy README.pdf %npm_config_pdf%",
     "live": "live-server webcomponents.html"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/alxgcrz/_learning_webcomponents_.git"
   }
 }
