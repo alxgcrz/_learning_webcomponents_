@@ -1,6 +1,16 @@
 # WebComponents
 
-## Introducción a los WebComponents
+... EN DESARROLLO ...
+
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <a href="https://alxgcrz.com" target="_blank">
+    <img src="https://alxgcrz.com/assets/asset_06_v1.png" alt="En desarrollo" title="En desarrollo" width="40%">
+  </a>
+</p>
+<!-- markdownlint-enable MD033 -->
+
+## Introducción
 
 **WebComponents** es el nombre por el que se conoce a un conjunto de características relacionadas con HTML, CSS y Javascript, mediante las cuales se pueden crear elementos mantenibles, reutilizables y encapsulados llamados **componentes**, sin que sea necesario utilizar herramientas externas, librerías o frameworks.
 
@@ -53,7 +63,7 @@ document.querySelector("element").constructor.name // => "HTMLUnknownElement"
 
 Cuando la etiqueta personalizada es correcta y se trata efectivamente de un **Custom Element**, el constructor es **HTMLElement**. Cuando la etiqueta no está bien formada, el navegador desconoce de que elemento se trata y por tanto muestra **HTMLUnknownElement**.
 
-#### Crear un **Custom Element**
+#### Crear un "Custom Element"
 
 Los **WebComponents** se programan a través de una clase Javascript. De esta forma pasan de comportarse como una simple etiqueta `<span>` a tener funcionalidad.
 
@@ -130,6 +140,14 @@ Este fichero lo cargaremos en el documento html:
 
 :warning: **NOTA**: hay que añadir el `type="module"` **obligatoriamente** o si no veremos por consola un error de tipo `Uncaught SyntaxError: Cannot use import statement outside a module`.
 
+## Librerias de WebComponents
+
+1. <https://stenciljs.com/>
+2. <https://lit.dev/>
+3. <https://www.fast.design/>
+4. <https://lwc.dev/>
+5. <https://www.solidjs.com/>
+
 ---
 
 ## Enlaces de interés
@@ -142,14 +160,6 @@ Este fichero lo cargaremos en el documento html:
 - <https://kinsta.com/blog/web-components/>
 - <https://dev.to/steveblue/the-state-of-web-components-in-2022-1ip3>
 - <https://jsfiddle.net/>
-
-### Librerias de WebComponents
-
-1. <https://stenciljs.com/>
-2. <https://lit.dev/>
-3. <https://www.fast.design/>
-4. <https://lwc.dev/>
-5. <https://www.solidjs.com/>
 
 ## Licencia
 
