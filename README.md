@@ -2,14 +2,6 @@
 
 ... EN DESARROLLO ...
 
-<!-- markdownlint-disable MD033 -->
-<p align="center">
-  <a href="https://alxgcrz.com" target="_blank">
-    <img src="https://alxgcrz.com/assets/asset_06_v1.png" alt="En desarrollo" title="En desarrollo" width="40%">
-  </a>
-</p>
-<!-- markdownlint-enable MD033 -->
-
 ## Introducción
 
 **WebComponents** es el nombre por el que se conoce a un conjunto de características relacionadas con HTML, CSS y Javascript, mediante las cuales se pueden crear elementos mantenibles, reutilizables y encapsulados llamados **componentes**, sin que sea necesario utilizar herramientas externas, librerías o frameworks.
@@ -150,7 +142,7 @@ Este fichero lo cargaremos en el documento html:
 
 ---
 
-## Enlaces de interés
+## Referencias
 
 - <https://lenguajejs.com/webcomponents/>
 - <https://developer.mozilla.org/es/docs/Web/API/Web_components>
