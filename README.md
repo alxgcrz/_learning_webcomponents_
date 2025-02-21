@@ -1,6 +1,6 @@
 # WebComponents
 
-... EN DESARROLLO ...
+> :warning: **DOCUMENTO EN DESARROLLO** :warning:
 
 ## Introducción
 
@@ -142,16 +142,20 @@ Este fichero lo cargaremos en el documento html:
 
 ---
 
-## Referencias
+## Enlaces
 
+- 🔸 [WebComponents.org](https://www.webcomponents.org/)
+- 👓 <https://github.com/web-padawan/awesome-web-components>
+- 👓 <https://github.com/zedix/awesome-web-components>
+- [Lit](https://lit.dev/)
+- <https://stenciljs.com/>
+- <https://css-tricks.com/an-introduction-to-web-components/#aa-article-series>
 - <https://lenguajejs.com/webcomponents/>
 - <https://developer.mozilla.org/es/docs/Web/API/Web_components>
-- <https://www.webcomponents.org/introduction>
 - <https://open-wc.org/>
 - <https://component.gallery/design-systems>
 - <https://kinsta.com/blog/web-components/>
 - <https://dev.to/steveblue/the-state-of-web-components-in-2022-1ip3>
-- <https://jsfiddle.net/>
 
 ## Licencia
 
